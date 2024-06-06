@@ -8,7 +8,7 @@ NIM : 12030122140279
 
 Kelas : E
 
-# Tahap Analisis Data
+# Tahapan Analisis Data
 1. Mengolah data kemudian dipindahkan ke dalam VSCode dalam bentuk CSV.
 
 2. Memulai analisis data dengan 9 metode menganalisa data (berdasarkan kode)
