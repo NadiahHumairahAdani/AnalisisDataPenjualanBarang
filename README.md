@@ -10,7 +10,7 @@ Kelas : E
 
 # Tahap Analisis Data
 1. Mengolah data kemudian dipindahkan ke dalam VSCode dalam bentuk CSV.
-
+![Screenshot (246)](https://github.com/NadiahHumairahAdani/AnalisisDataPenjualanBarang/assets/167257717/ca1ebc28-b2fc-47f3-8b54-36fead192163)
 2. Memulai analisis data dengan 9 metode menganalisa data (berdasarkan kode)
 ![Screenshot (243)](https://github.com/NadiahHumairahAdani/AnalisisDataPenjualanBarang/assets/167257717/25a0877a-136e-4e20-b80f-2875fe700fcc)
 ![Screenshot (244)](https://github.com/NadiahHumairahAdani/AnalisisDataPenjualanBarang/assets/167257717/2a0274e7-d257-41fd-becf-40749e206ebc)
