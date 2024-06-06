@@ -1,0 +1,6 @@
+﻿Faktur,Tanggal,Jenis_Kelamin,Jenis_Barang,Jumlah,Harga_Satuan,Promosi
+F001,1/1/2023,L,Elektronik,1,5000000,Ya
+F002,2/1/2023,P,Rumah_Tangga,3,150000,Tidak
+F003,3/1/2023,L,Elektronik,2,3000000,Ya
+F004,4/1/2023,P,Kecantikan,5,100000,Tidak
+F005,5/1/2023,L,Olahraga,1,2000000,Tidak
