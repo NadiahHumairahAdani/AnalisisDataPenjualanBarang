@@ -16,3 +16,4 @@ Kelas : E
 3. Menjalankan kode yang telah diletakkan kedalam python yang ada di VScode
 
 4. Analisis data digambarkan melalui grafik
+![Figure_1](https://github.com/NadiahHumairahAdani/AnalisisDataPenjualanBarang/assets/167257717/52c69ce7-bc8c-464e-82c8-03d3e6411adc)
