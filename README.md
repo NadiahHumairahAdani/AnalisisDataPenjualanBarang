@@ -12,7 +12,9 @@ Kelas : E
 1. Mengolah data kemudian dipindahkan ke dalam VSCode dalam bentuk CSV.
 
 2. Memulai analisis data dengan 9 metode menganalisa data (berdasarkan kode)
-
+![Screenshot (243)](https://github.com/NadiahHumairahAdani/AnalisisDataPenjualanBarang/assets/167257717/25a0877a-136e-4e20-b80f-2875fe700fcc)
+![Screenshot (244)](https://github.com/NadiahHumairahAdani/AnalisisDataPenjualanBarang/assets/167257717/2a0274e7-d257-41fd-becf-40749e206ebc)
+![Screenshot (245)](https://github.com/NadiahHumairahAdani/AnalisisDataPenjualanBarang/assets/167257717/feea24fb-25c1-4448-9b6a-92229b551f82)
 3. Menjalankan kode yang telah diletakkan kedalam python yang ada di VScode
 
 4. Analisis data digambarkan melalui grafik
